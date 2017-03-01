@@ -10,3 +10,12 @@
 
 
 An application to brute force all known Millard Public Schools logins to maximize the time it takes to crack each password
+
+1. [Main Features] (#main-features)
+2. [Installation] (#installation)
+3. [Usage] (#usage)
+
+Main Feaures
+=============
+
+test
