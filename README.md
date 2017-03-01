@@ -11,11 +11,52 @@
 
 An application to brute force all known Millard Public Schools logins to maximize the time it takes to crack each password
 
-1. [Main Features] (#main-features)
-2. [Installation] (#installation)
-3. [Usage] (#usage)
+Table of Contents
+==================
 
-Main Feaures
+1. [Main Features] (#main-features)
+2. [Dependencies] (#dependencies)
+3. [Installation] (#installation)
+  * [Automatic Installation] (#automatic-installation)
+  * [Manual Installation] (#manual-installation)
+4. [Usage] (#usage)
+  * [Command Line Arguments] (#command-line-argumets)
+  * [Terminal Interface] (#terminal-interface)
+  * [GUI Interface] (#gui-interface)
+4. [Future Integrations] (#future-integrations)
+5. [License] (README.md)
+
+Main Features
 =============
 
-test
+The concept behind this program is hitting the maximum attemps per minute as your hardware allows, to thread the application, and to hit multiple websites at one time. This will ensure the highest attemps per minute and ensure the smalles ammount of time per password.
+
+Dependencies
+============
+
+If you are using this application on Kali Linux as reccomended, this shouldn't be an issue for you. However, if you are installing this from the source, you could run into touble if you don't have these installed.
+
+Installation
+============
+
+If you are on Kali Linux (reccomended), the installation is simple to do with the given <code>.deb</code> file and using the automatic installation. However, if you prefer to install it from source, there is an option for that also.
+
+
+Automatic Installation
+----------------------
+
+Manual Installation
+-------------------
+
+
+Usage
+=====
+
+Command Line Arguments
+----------------------
+
+Terminal Interface
+------------------
+
+GUI Interface
+-------------
