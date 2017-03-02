@@ -22,7 +22,7 @@ Table of Contents
   * [Command Line Arguments] (#command-line-arguments)
   * [GUI Interface] (#gui-interface)
 4. [Future Integrations] (#future-integrations)
-5. [License] (README.md)
+5. [License] (LICENSE)
 
 Main Features
 =============
