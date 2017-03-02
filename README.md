@@ -2,11 +2,11 @@
   <img src="media/banner.png" />
 </p>
 # MPSBrute
-[![GitHub Build](HTTPS://img.shields.io/scrutinizer/build/g/filp/whoops.svg)](README.md)
-[![GitHub License](HTTPS://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE)
-[![GitHub Version](HTTPS://img.shields.io/badge/version-1.0.0-orange.svg)](README.md)
-[![GitHub Issues](HTTPS://img.shields.io/badge/issues-0-yellow.svg)](https://github.com/AaronVigal/MPSBrute/issues)
-[![GitHub Completion](HTTPS://img.shields.io/badge/completion-0 percent-red.svg)](README.md)
+[![GitHub Build](https://img.shields.io/scrutinizer/build/g/filp/whoops.svg)](README.md)
+[![GitHub License](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE)
+[![GitHub Version](https://img.shields.io/badge/version-1.0.0-orange.svg)](README.md)
+[![GitHub Issues](https://img.shields.io/badge/issues-0-yellow.svg)](https://github.com/AaronVigal/MPSBrute/issues)
+[![GitHub Completion](https://img.shields.io/badge/completion-0 percent-red.svg)](README.md)
 
 An application designed as a proof of concept to attack Millard Public Schools logins that are known to be brute forcible. The goal is to bring attention to the fact that our accounts are at risk and action should be taken to prevent this painstakingly easy attack. We have curated a list of usernames exported from Google Contacts and programatically generated a list of possible password combinations from the formula used to generate passwords for Millard's Students. 
 
