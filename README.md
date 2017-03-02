@@ -56,12 +56,12 @@ Usage
 
 Command Line Arguments
 ----------------------
-|     Argument    | Function Information                                                                                               |
-|:---------------:|--------------------------------------------------------------------------------------------------------------------|
-| -h // --help    | Displays the help manual on how to use the tool to it's full capabilities.                                         |
-| -v // --verbose | Turns on verbose mode for extended information on what the application is doing.                                   |
-| -i // --info    | Displays information about the tool like System Info, Version Number, Developer Information.                       |
-| -u // --update  | Checks the version number against the newest version on our GitHub repository and automatically updates if needed. |
+| Argument | Extended Argument | Function Information                                                                                               |
+|:--------:|:-----------------:|--------------------------------------------------------------------------------------------------------------------|
+|    -h    |       --help      | Displays the help manual on how to use the tool to it's full capabilities.                                         |
+|    -v    |     --verbose     | Turns on verbose mode for extended information on what the application is doing.                                   |
+|    -i    |       --info      | Displays information about the tool like System Info, Version Number, Developer Information.                       |
+|    -u    |      --update     | Checks the version number against the newest version on our GitHub repository and automatically updates if needed. |
 
 GUI Interface
 -------------
