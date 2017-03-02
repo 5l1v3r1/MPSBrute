@@ -69,3 +69,8 @@ Command Line Arguments
 
 GUI Interface
 -------------
+The Graphical User interface (GUI) will let you know which services are up and available to attack by it's color on the list to the right. We will see all the terminal output in the center of the window and be able to select which sevice you would like to attack at what agressiveness, or be able to run a hail marry attack to do them all at once. You will have an option to be able to pair it with another machine running the application and it will automatically split up the password list accordingly.
+<p align="center">
+  <img src="media/gui.png" />
+</p>
+(This is simply a concept photo)
