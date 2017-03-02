@@ -20,7 +20,7 @@ Table of Contents
   * [Manual Installation] (#manual-installation)
 4. [Usage] (#usage)
   * [Command Line Arguments] (#command-line-arguments)
-  * [GUI Interface] (#GUI-interface)
+  * [GUI Interface] (#gui-interface)
 4. [Future Integrations] (#future-integrations)
 5. [License] (README.md)
 
