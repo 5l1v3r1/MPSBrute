@@ -45,7 +45,7 @@ If you are using this application on Kali Linux as recommended, this shouldn't b
 Installation
 ============
 
-If you are on Kali Linux (recommended), the installation is simple to do with the given <code>.deb</code> file and using the automatic installation. However, if you prefer to install it from source, there is an option for that also.
+If you are on Kali Linux (recommended), the installation is simple to do with the given <code>.deb</code> file and using the automatic installation. However, if you prefer to install it from source, there is an option for that as well.
 
 
 Automatic Installation
@@ -69,8 +69,11 @@ Command Line Arguments
 
 GUI Interface
 -------------
-The Graphical User interface (GUI) will let you know which services are up and available to attack by it's color on the list to the right. We will see all the terminal output in the center of the window and be able to select which sevice you would like to attack at what agressiveness, or be able to run a hail marry attack to do them all at once. You will have an option to be able to pair it with another machine running the application and it will automatically split up the password list accordingly.
+The Graphical User interface (GUI) will let you know which services are up and available to attack by its color on the list to the right. We will see all the terminal output in the center of the window and be able to select which service you would like to attack at what aggressiveness, or be able to run a hail marry attack to do them all at once. You will have an option to be able to pair it with another machine running the application and it will automatically split up the password list accordingly.
 <p align="center">
   <img src="media/gui.png" />
 </p>
 (This is simply a concept photo)
+
+
+I would like to say thank you and hope this proof of concept will urge you to update your security measures against brute force attack distributed across multiple Millard websites, putting over 6,000 students accounts at risk.
