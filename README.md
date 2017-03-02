@@ -29,7 +29,9 @@ Table of Contents
 Main Features
 =============
 
-The concept behind this program is hitting the maximum attemps per minute as your hardware allows, to thread the application, and to hit multiple websites at one time. This will ensure the highest attemps per minute and ensure the smalles ammount of time per password.
+The concept behind this program is hitting the maximum attemps per minute as your hardware allows, to thread the application, and to hit multiple websites at one time. This will ensure the highest attemps per minute and ensure the smallest ammount of time per password.
+
+Our main attack features a highly efficient brute force method running 64 threads per playform across 10 vulnerable websites boasting a massive 1790 passwords per minute.
 
 Dependencies
 ============
@@ -54,9 +56,12 @@ Usage
 
 Command Line Arguments
 ----------------------
-
-Terminal Interface
-------------------
+|     Argument    | Function Information                                                                                               |
+|:---------------:|--------------------------------------------------------------------------------------------------------------------|
+| -h // --help    | Displays the help manual on how to use the tool to it's full capabilities.                                         |
+| -v // --verbose | Turns on verbose mode for extended information on what the application is doing.                                   |
+| -i // --info    | Displays information about the tool like System Info, Version Number, Developer Information.                       |
+| -u // --update  | Checks the version number against the newest version on our GitHub repository and automatically updates if needed. |
 
 GUI Interface
 -------------
