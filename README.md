@@ -76,4 +76,4 @@ The Graphical User interface (GUI) will let you know which services are up and a
 (This is simply a concept photo)
 
 
-I would like to say thank you and hope this proof of concept will urge you to update your security measures against brute force attack distributed across multiple Millard websites, putting over 6,000 students accounts at risk.
+I would like to say thank you and hope this proof of concept will urge you to update your security measures against brute force attacks distributed across multiple Millard websites, putting over 6,000 student accounts at risk.
